@@ -103,6 +103,79 @@
     }
 }
 
-@media screen and (max-width:700px) and (min-width:500px) {}
+@media screen and (max-width:699px) and (min-width:300px) {
 
-@media screen and (max-width:500px) and (min-width:300px) {}
+    /* header */
+    .header {
+        height: 539px;
+    }
+
+    /* Gallery Section */
+    .img-ex {
+        display: none;
+    }
+
+    /* Boday */
+    .bodyTxt p {
+        left: 0;
+        font-weight: bold;
+        color: #414f6b;
+        width: 510px;
+        height: auto;
+        background-color: rgb(240, 248, 255, 0.8);
+        padding: 2rem;
+
+    }
+
+    /* Container Bottom */
+    #team {
+        font-size: 120px;
+    }
+
+    .bodyBottom .bodyBottomNo {
+        width: 152px;
+    }
+
+    .bodyBottomTxt {
+        top: -28px;
+    }
+
+    .bodyBottomPara {
+        display: block;
+        top: 0;
+        left: 0;
+        width: 502px;
+        height: 5px;
+    }
+
+    /* Event */
+    .event {
+        height: 456px;
+    }
+
+    .eventScheduleContainer1 {
+        height: 400px;
+    }
+
+    .eventScheduleContainer2 {
+        height: 400px;
+    }
+
+    .eventScheduleBox {
+        width: 352px;
+        height: 229px;
+        background-color: rgb(255, 255, 255, .9);
+        position: relative;
+        left: 116px;
+        top: 69px;
+        z-index: 3;
+    }
+
+    .eventSchedule {
+        margin-left: auto;
+        margin-right: auto;
+        padding: 30px;
+        text-align: left;
+        box-sizing: border-box;
+    }
+}
