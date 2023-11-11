@@ -31,7 +31,7 @@ a {
 
 .header {
     position: relative;
-    background: url("images/header\ img.png");
+    background: url("images/header\ img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center top;
@@ -142,7 +142,7 @@ a {
     widows: 100%;
     height: 906px;
     box-sizing: border-box;
-    background-image: url("images/peak_body.png");
+    background-image: url("images/peak_body.jpg");
     background-size: cover;
     position: relative;
 }
@@ -293,7 +293,7 @@ a {
     height: 522px;
     position: absolute;
     left: 0;
-    background: url("images/footer/tab-1.png") no-repeat left bottom;
+    background: url("images/footer/tab-1.jpg") no-repeat left bottom;
     background-size: cover;
     filter: brightness(100%) contrast(100%) hue-rotate(20deg) drop-shadow(10 0 0 rgb(76, 28, 233));
     display: block;
@@ -304,7 +304,7 @@ a {
     height: 522px;
     position: absolute;
     left: 0;
-    background: url("images/footer/tab-2.png") no-repeat left bottom;
+    background: url("images/footer/tab-2.jpg") no-repeat left bottom;
     background-size: cover;
     object-fit: contain;
     filter: brightness(100%) contrast(100%) hue-rotate(20deg) drop-shadow(10 0 0 rgb(76, 28, 233));
